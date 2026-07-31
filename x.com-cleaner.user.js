@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         x.com Video Card & Overlay Cleaner
 // @namespace    https://github.com/OSloth
-// @version      1.4
-// @description  隱藏影片下方及影片內部「來自 xxx」的浮動跳轉標籤容器
+// @version      1.5
+// @description  移除影片下方、影片內嵌連結以及「來自 xxx」的浮動跳轉標籤容器
 // @license      MIT
 // @author       OSloth
 // @match        https://x.com/*
